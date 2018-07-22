@@ -16,6 +16,6 @@ public class TestNGSamples {
 	
 	@Test
 	public void gitPushTest() {
-		System.out.println("Git Push Test connection");
+		System.out.println("Git Push Test connection 1");
 	}
 }
