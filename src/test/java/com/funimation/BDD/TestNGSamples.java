@@ -18,4 +18,9 @@ public class TestNGSamples {
 	public void gitPushTest() {
 		System.out.println("Git Push Test connection 123");
 	}
+	
+	@Test
+	public void New() {
+		System.out.println("New method added");
+	}
 }
