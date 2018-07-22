@@ -13,5 +13,9 @@ public class TestNGSamples {
 	public void login() {
 		System.out.println("Login");
 	}
-
+	
+	@Test
+	public void gitPushTest() {
+		System.out.println("Git Push Test");
+	}
 }
